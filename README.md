@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20!🥳&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!%20🥳&fontSize=50&animation=twinkling)
 
+<!--
+[![Solved.ac
+kihyeoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangion)](https://solved.ac/bangion)
+-->
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
