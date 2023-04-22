@@ -12,22 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!%20👋&fontSize=50&animation=twinkling)
+I'm a web front-end engineer.
 
-<!--
-[![Solved.ac
-kihyeoon](http://mazassumnida.wtf/api/v2/generate_badge?boj=bangion)](https://solved.ac/bangion)
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kihyeoon@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://kion.tistory.com/)
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
-<p align="center">
-  <a href="https://github.com/kihyeoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihyeoon&layout=compact&show_icons=ture&show_owner=ture&hide_title=ture&theme=nord" />
-  </a>
-</p>
-<h3 align="center">💡 My Git Stats 💡</h3>
-<p align="center">
-  <a href="https://github.com/kihyeoon">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kihyeoon&hide=ture&hide_title=ture&show_icons=ture&include_all_commits=ture&theme=nord" />
-  </a>
-</p>
+## Tech stack
+
+### Languages & Tech
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
+### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled Components&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React-Query&logoColor=white"/>
