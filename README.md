@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a web front-end engineer.
+I'm a Front-end developer.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kihyeoon@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white)](https://kion.tistory.com/)
