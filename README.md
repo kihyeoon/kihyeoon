@@ -25,6 +25,11 @@ I'm a Front-end developer.
 
 ### Frameworks & Libraries
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled Components&logoColor=white"/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
+![RxJS](https://img.shields.io/badge/RxJS-%23B7178C.svg?style=flat&logo=reactivex&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) 
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat&logo=webpack&logoColor=black) 
+<img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat&logo=Styled Components&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React-Query&logoColor=white"/>
